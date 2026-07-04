@@ -8,8 +8,11 @@ Backend / Systems Software Engineer with a focus on **verification and distribut
 ### 🛠 Tech Stack
 
 **Languages:** Kotlin · Java · Scala · Rust · Haskell · Go · C# · C++
+
 **Backend:** Spring Boot · Vert.x · gRPC · Tapir · Kafka
+
 **DB:** PostgreSQL · Liquibase · Doobie · Apache Cayenne
+
 **Verification:** Symbolic Execution · Fuzzing · Property-Based Testing · JVM TI
 
 ### 📌 Featured Projects
